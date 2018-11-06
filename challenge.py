@@ -46,7 +46,7 @@ get_data('your_company_stock_data.csv')
 #on a given day. We'll later print the price out to terminal.
 def predict_prices(dates, prices, x):
 
-predicted_price = predict_price(dates, prices, 29)
-print(predicted_price)
+	predicted_price = predict_price(dates, prices, 29)
+	print(predicted_price)
 
 

@@ -1,8 +1,9 @@
 # Byte-compiled / optimized / DLL files
+TSLA_tweets.csv
 __pycache__/
 *.py[cod]
 *$py.class
-
+include/
 # C extensions
 *.so
 
@@ -87,3 +88,4 @@ ENV/
 
 # Rope project settings
 .ropeproject
+bin/
